@@ -1,1 +1,1 @@
-# Repo for my java programming practice
+# My Java Programming Practice
